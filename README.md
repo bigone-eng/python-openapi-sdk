@@ -1,3 +1,5 @@
+BigONE 并不保证本程序的正确性，使用者应该知道并理解其中的风险，并自愿承担由于代码原因造成的损失。
+
 # python-openapi-sdk
 OpenAPI SDK written in Python
 
